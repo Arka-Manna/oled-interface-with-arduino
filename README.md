@@ -1,5 +1,6 @@
 //# oled-interface-with-arduino
 //let's learn oled display and Arduino using U8g2 library.
+//code by Arka Manna
 #include <Arduino.h>
 #include <U8g2lib.h>
 
